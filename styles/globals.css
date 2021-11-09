@@ -14,3 +14,24 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.cardContainer {
+  color: black;
+  cursor: pointer;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+  transform: scale(0.95);
+  transition: all 0.3s ease;
+}
+
+.cardContainer:hover {
+  transform: scale(1);
+  box-shadow: 4px 6px 9px 0px rgba(0,0,0,0.5);
+  -webkit-box-shadow: 4px 6px 9px 0px rgba(0,0,0,0.5);
+  -moz-box-shadow: 4px 6px 9px 0px rgba(0,0,0,0.5);
+}
+
+.modalImg {
+  border-radius: 8px;
+}
