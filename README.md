@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📖  Recommended Tour
+
+A simple project which show list of cards of places with a modal when clicked.
 
 ## Getting Started
 
