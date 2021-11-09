@@ -1,6 +1,6 @@
 # 📖  Recommended Tour
 
-A simple project which show list of cards of places with a modal when clicked.
+A simple project which show list of cards of places with a modal when clicked. Built using <a href="https://reactjs.org/">React</a> and <a href="https://chakra-ui.com/docs/getting-started">Chakra UI</a> with <a href="https://nextjs.org/">Next.js Framework</a>.
 
 ## Getting Started
 
